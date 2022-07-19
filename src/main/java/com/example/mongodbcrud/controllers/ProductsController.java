@@ -1,4 +1,4 @@
-package com.example.mongodbcrud.crud_controller;
+package com.example.mongodbcrud.controllers;
 
 
 import com.example.mongodbcrud.entity.RegisteredProducts;
